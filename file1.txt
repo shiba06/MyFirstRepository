@@ -3,3 +3,4 @@ changes made commited
 file final commit
 change 3
 change 5
+change 6
